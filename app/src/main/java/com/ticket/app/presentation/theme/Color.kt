@@ -1,4 +1,4 @@
-package com.ticket.app.ui.theme
+package com.ticket.app.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
